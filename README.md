@@ -36,7 +36,9 @@ vote_count	Number of audience votes
 cast, crew, director	Credits and director information
 
 Total columns: 24
+
 Format: CSV
+
 Rows: Approximately 4,800 movies
 
 ## Analysis Overview
