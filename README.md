@@ -47,28 +47,28 @@ The Jupyter Notebook includes several stages of analysis, covering:
 
 ### 1. Data Cleaning
 
-Handling missing values
+- Handling missing values
 
-Converting data types
+- Converting data types
 
-Parsing and formatting dates
+- Parsing and formatting dates
 
 ### 2. Exploratory Data Analysis
 
-Identification of common genres
+- Identification of common genres
 
-Statistical summaries (e.g., average runtime, rating distributions)
+- Statistical summaries (e.g., average runtime, rating distributions)
 
-Relationships such as budget vs. revenue
+- Relationships such as budget vs. revenue
 
-Analysis of top directors, actors, and production companies
+- Analysis of top directors, actors, and production companies
 
 ### 3. Insights and Visualizations
 
-Highest-grossing and most popular movies
+- Highest-grossing and most popular movies
 
-Trends in production and audience ratings over time
+- Trends in production and audience ratings over time
 
-Correlation heatmaps
+- Correlation heatmaps
 
-Popularity versus vote averages
+- Popularity versus vote averages
