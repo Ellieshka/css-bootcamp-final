@@ -1,4 +1,4 @@
-### css-bootcamp-final
+# css-bootcamp-final
 
 ## Movie Dataset Analysis (Python)
 
@@ -43,7 +43,7 @@ Rows: Approximately 4,800 movies
 
 The Jupyter Notebook includes several stages of analysis, covering:
 
-# 1. Data Cleaning
+### 1. Data Cleaning
 
 Handling missing values
 
@@ -51,7 +51,7 @@ Converting data types
 
 Parsing and formatting dates
 
-# 2. Exploratory Data Analysis
+### 2. Exploratory Data Analysis
 
 Identification of common genres
 
@@ -61,7 +61,7 @@ Relationships such as budget vs. revenue
 
 Analysis of top directors, actors, and production companies
 
-# 3. Insights and Visualizations
+### 3. Insights and Visualizations
 
 Highest-grossing and most popular movies
 
