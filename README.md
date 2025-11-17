@@ -2,72 +2,71 @@
 
 Movie Dataset Analysis (Python)
 
-This repository contains a Python-based data analysis project exploring a large movie dataset.
-Using Pandas, NumPy, and Matplotlib/Seaborn (if used in your notebook), the project answers common analytical questions about movie performance, popularity, financial success, and more.
+This repository contains a Python-based data analysis project that explores a large movie dataset. Using tools such as Pandas, NumPy, and Matplotlib/Seaborn, the project investigates patterns related to movie performance, financial success, popularity, and audience reception.
 
-The repository currently includes:
+Files in This Repository
 
-movies_python_code.ipynb — Jupyter notebook with all analysis code
+movies_python_code.ipynb
+Jupyter Notebook containing all data analysis steps, visualizations, and findings.
 
-movie_dataset_copy2.csv — Movie dataset (24 features, 4,800+ entries)
+movie_dataset_copy2.csv
+Movie dataset used in this project, containing approximately 4,800 entries and 24 metadata features.
 
 Dataset Description
 
-The dataset includes key movie metadata such as:
+The dataset contains key movie-related features, including budget, genres, cast information, and performance metrics.
 
 Column	Description
 budget	Movie production budget
-genres	Genres associated with each film
+genres	Genres associated with the film
 homepage	Official movie homepage URL
-id	Movie ID
+id	Unique movie ID
 keywords	Keywords linked to the movie
-original_language	Language of the original script
-overview	Short film summary
+original_language	Original language of the script
+overview	Short summary of the film
 popularity	Popularity score
-production_companies	Companies involved
+production_companies	Companies involved in production
 release_date	Release date
 revenue	Box office revenue
 runtime	Duration in minutes
 tagline	Promotional tagline
 title	Movie title
 vote_average	Average audience rating
-vote_count	Number of votes
-cast, crew, director	Credits and director info
+vote_count	Number of audience votes
+cast, crew, director	Credits and director information
 
 Total columns: 24
 Format: CSV
-Rows: ~4,800 movies
+Rows: Approximately 4,800 movies
 
-Analysis Included in the Notebook
+Analysis Overview
 
-Depending on what your notebook currently performs (I’ll adjust if needed), the analysis typically includes:
+The Jupyter Notebook includes several stages of analysis, covering:
 
-Data Cleaning
+1. Data Cleaning
 
 Handling missing values
 
 Converting data types
 
-Parsing dates
+Parsing and formatting dates
 
-Exploratory Data Analysis
+2. Exploratory Data Analysis
 
-Most common genres
+Identification of common genres
 
-Average runtime
+Statistical summaries (e.g., average runtime, rating distributions)
 
-Relationship between budget and revenue
+Relationships such as budget vs. revenue
 
-Top directors and actors
+Analysis of top directors, actors, and production companies
 
-Rating distribution
+3. Insights and Visualizations
 
-Insights & Visualizations
+Highest-grossing and most popular movies
 
-Highest-grossing movies
-
-Trends over time
+Trends in production and audience ratings over time
 
 Correlation heatmaps
 
-Popularity vs. vote average
+Popularity versus vote averages
