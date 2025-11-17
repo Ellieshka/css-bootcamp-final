@@ -1,10 +1,10 @@
 ### css-bootcamp-final
 
-#Movie Dataset Analysis (Python)
+## Movie Dataset Analysis (Python)
 
 This repository contains a Python-based data analysis project that explores a large movie dataset. Using tools such as Pandas, NumPy, and Matplotlib/Seaborn, the project investigates patterns related to movie performance, financial success, popularity, and audience reception.
 
-#Files in This Repository
+## Files in This Repository
 
 movies_python_code.ipynb
 Jupyter Notebook containing all data analysis steps, visualizations, and findings.
@@ -12,11 +12,11 @@ Jupyter Notebook containing all data analysis steps, visualizations, and finding
 movie_dataset_copy2.csv
 Movie dataset used in this project, containing approximately 4,800 entries and 24 metadata features.
 
-#Dataset Description
+## Dataset Description
 
 The dataset contains key movie-related features, including budget, genres, cast information, and performance metrics.
 
-#Column	Description
+## Column	Description
 budget	Movie production budget
 genres	Genres associated with the film
 homepage	Official movie homepage URL
@@ -39,11 +39,11 @@ Total columns: 24
 Format: CSV
 Rows: Approximately 4,800 movies
 
-#Analysis Overview
+## Analysis Overview
 
 The Jupyter Notebook includes several stages of analysis, covering:
 
-1. Data Cleaning
+# 1. Data Cleaning
 
 Handling missing values
 
@@ -51,7 +51,7 @@ Converting data types
 
 Parsing and formatting dates
 
-2. Exploratory Data Analysis
+# 2. Exploratory Data Analysis
 
 Identification of common genres
 
@@ -61,7 +61,7 @@ Relationships such as budget vs. revenue
 
 Analysis of top directors, actors, and production companies
 
-3. Insights and Visualizations
+# 3. Insights and Visualizations
 
 Highest-grossing and most popular movies
 
